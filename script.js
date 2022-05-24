@@ -1,3 +1,5 @@
+//create questions
+var currentQuestion = ["Which is NOT a primitive data type?", "Which is an example of a DOM element?", "What is the relationship between the console and the browser?", "How do you activate the debugger?"]
 //retrieve DOM elements
 var startBtn = document.getElementById("start-btn")
 var currentQuestion = "";
